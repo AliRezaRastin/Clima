@@ -1,0 +1,8 @@
+ios  
+
+ <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app needs access to location when open.</string>
+
+andriod  
+
+ <uses-permission android:name="android .permission.ACCESS_COARSE_LOCATION"/>
